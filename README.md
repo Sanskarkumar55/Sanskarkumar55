@@ -18,10 +18,7 @@
 
 ![GitHub Snake Animation](https://raw.githubusercontent.com/Sanskarkumar55/Sanskarkumar55/output/github-contribution-grid-snake.svg)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sanskarkumar55/Sanskarkumar55/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Sanskarkumar55/Sanskarkumar55/output/github-contribution-grid-snake.svg">
-</picture>
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
