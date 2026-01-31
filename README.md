@@ -14,6 +14,9 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanskarkumar55&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+## 🐍 Snake eating my GitHub contributions
+
+![GitHub Snake Animation](https://raw.githubusercontent.com/Sanskarkumar55/Sanskarkumar55/output/github-contribution-grid-snake.svg)
 
 
 ### ✍️ Random Dev Quote
